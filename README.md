@@ -1,2 +1,3 @@
-# concorde-plugins
-A compilation of the Concorde plugins made by one of the Concorde developers!
+# Concorde Plugins
+
+A collection of [Concorde](https://github.com/concordemod/concorde) plugins. All made by ItsThatOneJack, one of the developers of Concorde!
